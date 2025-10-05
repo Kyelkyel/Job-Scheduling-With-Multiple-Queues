@@ -1,0 +1,24 @@
+.simulation {
+  padding: 40px;
+}
+.sim-container {
+  display: flex;
+  gap: 20px;
+}
+.queue-input, .visualization {
+  flex: 1;
+  padding: 20px;
+  border: 1px solid #ddd;
+  background: #fff;
+  border-radius: 8px;
+}
+.gantt {
+  display: flex;
+  gap: 10px;
+  margin: 10px 0;
+}
+.gantt span {
+  padding: 10px;
+  background: #cce0ff;
+  border-radius: 4px;
+}

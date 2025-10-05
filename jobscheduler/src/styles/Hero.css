@@ -1,0 +1,17 @@
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px;
+  background: #eef5ff;
+}
+.hero-text {
+  max-width: 500px;
+}
+.hero-buttons .btn {
+  margin-right: 10px;
+}
+.btn.primary {
+  background: #004aad;
+  color: white;
+}
